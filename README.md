@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,60:0d2137,100:00d4ff&height=220&section=header&text=Azam%20Vosejonov&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Backend%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20FastAPI%20⚡&descAlignY=58&descColor=00d4ff&descSize=18"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=🚀+Building+scalable+backends;🐍+Python+%7C+Django+%7C+FastAPI;🐳+Docker+%7C+Nginx+%7C+PostgreSQL;📦+Clean+Code+%7C+REST+APIs+%7C+Microservices;🌍+Developer+from+Uzbekistan+🇺🇿" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=🚀+Building+scalable+backends;🐍+Python+%7C+Django+%7C+FastAPI;🐳+Docker+%7C+Nginx+%7C+PostgreSQL;📦+Clean+Code+%7C+REST+APIs+%7C+Microservices;🌍+Developer+from+Uzbekistan+🇺🇿" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Badges Row -->
 <img src="https://komarev.com/ghpvc/?username=azamvosejonov&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/azamvosejonov?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS"/>
@@ -23,49 +20,38 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+## 👨‍💻 About Me
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
 
-class AzamVosejonov:
-    """
-    ╔══════════════════════════════════════╗
-    ║       Backend Developer Profile      ║
-    ╚══════════════════════════════════════╝
-    """
-    def __init__(self):
-        self.name        = "Azam Vosejonov"
-        self.role        = "Backend Developer 🚀"
-        self.location    = "Uzbekistan 🇺🇿"
-        self.languages   = ["Python 🐍", "C# ⚙️"]
-        self.frameworks  = ["Django", "Django REST", "FastAPI"]
-        self.databases   = ["PostgreSQL", "MySQL", "MongoDB", "SQLite"]
-        self.devops      = ["Docker 🐳", "Nginx", "GitHub Actions", "CI/CD"]
-        self.tools       = ["Postman", "Git", "Twilio", "Pandas"]
-        self.learning    = ["Microservices ⚡", "Kubernetes ☸️", "Redis 🔴"]
-        self.available   = True  # Open for opportunities!
+### 🙋 Who am I?
+- 🔭 **Name:** Azam Vosejonov
+- 💼 **Role:** Backend Developer
+- 🌍 **Location:** Uzbekistan 🇺🇿
+- 💬 **Languages:** Python 🐍 · C# ⚙️
+- ✅ **Status:** Open for opportunities
 
-    def say_hello(self) -> str:
-        return "Thanks for visiting! Let's build something amazing together 🚀"
+    </td>
+    <td valign="top" width="50%">
 
-    def current_focus(self) -> list:
-        return [
-            "Building high-performance REST APIs",
-            "Containerizing apps with Docker",
-            "Learning Microservice architecture"
-        ]
+### 🎯 Current Focus
+- 🚀 Building high-performance REST APIs
+- 🐳 Containerizing apps with Docker
+- ⚡ Learning Microservice architecture
+- ☸️ Exploring Kubernetes & Redis
+- 📦 Writing clean & scalable code
 
-me = AzamVosejonov()
-print(me.say_hello())
-```
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -104,13 +90,13 @@ print(me.say_hello())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=azamvosejonov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=400" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=azamvosejonov&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamvosejonov&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamvosejonov&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="175"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=azamvosejonov&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" height="165"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=azamvosejonov&theme=tokyonight&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" height="165"/>
 
 </div>
 
@@ -130,7 +116,7 @@ print(me.say_hello())
 
 ---
 
-## ⏱️ WakaTime Weekly Coding Stats
+## ⏱️ WakaTime Coding Stats
 
 <div align="center">
 
@@ -140,12 +126,6 @@ print(me.say_hello())
 <!--END_SECTION:waka-->
 
 </div>
-
-> **🔧 WakaTime setup qilish uchun:**
-> 1. [wakatime.com](https://wakatime.com) ga ro'yxatdan o'ting
-> 2. VS Code/PyCharm ga WakaTime plugin o'rnating
-> 3. `WAKATIME_API_KEY` ni GitHub Secrets ga qo'shing
-> 4. [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) action yarating
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -159,11 +139,6 @@ print(me.say_hello())
 
 </div>
 
-> **🎧 Spotify widget sozlash:**
-> 1. [novatorem](https://github.com/novatorem/novatorem) repo ni fork qiling
-> 2. Spotify akkauntingizni ulang
-> 3. Vercel ga deploy qiling va yuqoridagi URLni o'zgartiring
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
@@ -172,49 +147,23 @@ print(me.say_hello())
 
 <div align="center">
 
-[![Azam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=azamvosejonov&theme=tokyo-night&hide_border=true&area=true&area_color=00d4ff&line=00d4ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azamvosejonov&theme=tokyo-night&hide_border=true&area=true&line=00d4ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azamvosejonov/azamvosejonov/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azamvosejonov/azamvosejonov/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/azamvosejonov/azamvosejonov/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azamvosejonov/azamvosejonov/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azamvosejonov/azamvosejonov/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/azamvosejonov/azamvosejonov/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
-
-> **🐍 Snake animation yoqish uchun** `.github/workflows/snake.yml` fayl yarating:
->
-> ```yaml
-> name: Generate Snake Animation
-> on:
->   schedule:
->     - cron: "0 */12 * * *"
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: azamvosejonov
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -231,7 +180,7 @@ print(me.say_hello())
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
 
 <div align="center">
 
