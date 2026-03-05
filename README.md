@@ -104,45 +104,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=azamvosejonov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## ⏱️ WakaTime Coding Stats
-
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/azamvosejonov.svg?style=for-the-badge)](https://wakatime.com/@azamvosejonov)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 🎵 Spotify — Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-azamvosejonov.vercel.app/api/spotify)](https://open.spotify.com)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -162,6 +123,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azamvosejonov/azamvosejonov/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/azamvosejonov/azamvosejonov/output/github-snake-dark.svg"/>
 </picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ⏱️ WakaTime Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
